@@ -1,0 +1,38 @@
+# ./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/jpeg_encoder_0.005_0.9_1_0.1_234729_11132023 jpeg_encoder 10_10 1
+# ./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/jpeg_encoder_0.005_0.9_1_0.1_234729_11132023 jpeg_encoder 10_25_10_25_42 1
+# ./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/jpeg_encoder_0.005_0.9_1_0.1_234729_11132023 jpeg_encoder 10_25_10_25_23 1
+# ./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/ariane_0.05_0.9_1_0_183024_10182023 ariane 10_10 1
+# ./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/ariane_0.05_0.9_1_0_183024_10182023 ariane 25_25 1
+# ./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/ariane_0.05_0.9_1_0_183024_10182023 ariane 10_25_10_25_42 1
+# ./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/ariane_0.05_0.9_1_0_183024_10182023 ariane 10_25_10_25_23 1
+# ./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/bsg_chip_0.005_0.9 bsg_chip 10_10 1
+# ./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/bsg_chip_0.005_0.9 bsg_chip 25_25 1
+# ./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/bsg_chip_0.005_0.9 bsg_chip 10_25_10_25_42 1
+# ./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/bsg_chip_0.005_0.9 bsg_chip 10_25_10_25_23 1
+# ./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/MegaBoom_0.1_0.8_1_0.1_120452_11162023 MegaBoom 10_10 1
+# ./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/MegaBoom_0.1_0.8_1_0.1_120452_11162023 MegaBoom 25_25 1
+# ./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/MegaBoom_0.1_0.8_1_0.1_120452_11162023 MegaBoom 10_25_10_25_42 1
+# ./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/MegaBoom_0.1_0.8_1_0.1_120452_11162023 MegaBoom 10_25_10_25_23 1
+# ./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/mempool_group_0.1_0.9_1_0.05_025357_10282023 mempool_group 10_10 1
+# ./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/mempool_group_0.1_0.9_1_0.05_025357_10282023 mempool_group 25_25 1
+# ./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/mempool_group_0.1_0.9_1_0.05_025357_10282023 mempool_group 10_25_10_25_42 1
+# ./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/mempool_group_0.1_0.9_1_0.05_025357_10282023 mempool_group 10_25_10_25_23 1
+# ./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/jpeg_encoder_0.005_0.9_1_0.1_234729_11132023 jpeg_encoder 10_10 2
+./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/jpeg_encoder_0.005_0.9_1_0.1_234729_11132023 jpeg_encoder 10_25_10_25_42 2
+./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/jpeg_encoder_0.005_0.9_1_0.1_234729_11132023 jpeg_encoder 10_25_10_25_23 2
+./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/ariane_0.05_0.9_1_0_183024_10182023 ariane 10_10 2
+./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/ariane_0.05_0.9_1_0_183024_10182023 ariane 25_25 2
+./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/ariane_0.05_0.9_1_0_183024_10182023 ariane 10_25_10_25_42 2
+./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/ariane_0.05_0.9_1_0_183024_10182023 ariane 10_25_10_25_23 2
+./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/bsg_chip_0.005_0.9 bsg_chip 10_10 2
+./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/bsg_chip_0.005_0.9 bsg_chip 25_25 2
+./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/bsg_chip_0.005_0.9 bsg_chip 10_25_10_25_42 2
+./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/bsg_chip_0.005_0.9 bsg_chip 10_25_10_25_23 2
+./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/MegaBoom_0.1_0.8_1_0.1_120452_11162023 MegaBoom 10_10 2
+./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/MegaBoom_0.1_0.8_1_0.1_120452_11162023 MegaBoom 25_25 2
+./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/MegaBoom_0.1_0.8_1_0.1_120452_11162023 MegaBoom 10_25_10_25_42 2
+./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/MegaBoom_0.1_0.8_1_0.1_120452_11162023 MegaBoom 10_25_10_25_23 2
+./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/mempool_group_0.1_0.9_1_0.05_025357_10282023 mempool_group 10_10 2
+./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/mempool_group_0.1_0.9_1_0.05_025357_10282023 mempool_group 25_25 2
+./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/mempool_group_0.1_0.9_1_0.05_025357_10282023 mempool_group 10_25_10_25_42 2
+./run_seeded_exp_v1.sh /home/fetzfs_projects/PlacementCluster/sakundu/BlobPlacement/blob_runs/mempool_group_0.1_0.9_1_0.05_025357_10282023 mempool_group 10_25_10_25_23 2
